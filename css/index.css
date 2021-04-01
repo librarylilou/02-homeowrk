@@ -1,0 +1,38 @@
+
+body{
+   
+    background-image: url("./imgs-02homework/gradientPinkBlue.jpg");
+
+}
+.greeting{
+    margin-top: 30%;
+    text-align: center;
+    color:white;
+}
+.intro{
+    text-align:center;
+    color:white;
+    margin-left:15%;
+    margin-right:10%;
+    margin-bottom: 40%;
+}
+.freeTime{
+    color:white;
+}
+.oyukiSmile{
+    margin-left: 50%;
+}
+
+h1{
+    margin-top: 20%;
+    text-align: center;
+    color:white;
+}
+.card{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+p{
+    color:white;
+    text-align: center;
+}
