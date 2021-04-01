@@ -1,1 +1,1 @@
-# 02-homeowrk
+# hw02-responsivePortfolio
